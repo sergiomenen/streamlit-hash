@@ -1,0 +1,3 @@
+Hola Streamlit Hash Demo 👋
+Este archivo sirve para probar hashing incremental.
+Línea 3.
